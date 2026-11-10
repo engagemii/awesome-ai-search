@@ -180,6 +180,7 @@ The [AI Search API and MCP Benchmark](benchmarks/api-mcp-benchmark.md) compares 
 
 ## Datasets and Benchmarks
 
+- [Engagemii Index free data](https://engagemii.com/sample) - Free AI visibility data: a 500-company US sample with score, which AI engines read about each company and how often, industry, location, tech stack and business relationships, plus a 1 million company list with AI visibility level. CC BY 4.0; also on [Kaggle](https://www.kaggle.com/datasets/gregorypellitteri/ai-visibility-of-500-us-companies), [Hugging Face](https://huggingface.co/datasets/engagemii-index/ai-visibility-us-500) and [GitHub](https://github.com/engagemii/engagemii-index-free-sample).
 - [China AI Visibility Benchmark 2026](https://github.com/David88666/china-ai-visibility-benchmark) - Aggregate results and a bilingual 42-question prompt panel across six Chinese assistants, published under CC BY 4.0.
 - [GEO-bench](https://github.com/GEO-optim/GEO) - Benchmark released with the original GEO paper.
 
